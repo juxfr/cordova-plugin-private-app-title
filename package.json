@@ -1,0 +1,18 @@
+{
+  "name": "cordova-plugin-private-app-title",
+  "version": "1.0.2",
+  "description": "private",
+  "cordova": {
+    "id": "cordova-plugin-private-app-title",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juxfr/cordova-plugin-private-app-title.git"
+  },
+  "author": "Julien Cornic <jcornic@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/juxfr/cordova-plugin-private-app-title"
+}
