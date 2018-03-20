@@ -25,7 +25,7 @@ SOFTWARE.
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-private-app-title"
-    version="1.0.5">
+    version="1.0.6">
 
     <name>cordova-plugin-private-app-title</name>
 	<description>Private</description>
